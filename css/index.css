@@ -98,6 +98,11 @@
           width: 90%;
       }
   }
+  @media (min-width: 1200px) {
+    .container .game .boxes {
+        width: 30%;
+    }
+}
 
   .container .game .boxes .box {
       width: 80px;
